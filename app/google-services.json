@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735493959268",
+    "firebase_url": "https://ocr-project-86219.firebaseio.com",
+    "project_id": "ocr-project-86219",
+    "storage_bucket": "ocr-project-86219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735493959268:android:bd9cffb353138d93747971",
+        "android_client_info": {
+          "package_name": "com.biluutech.ocrproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735493959268-s4bfq1i2m44sgqr1jjtv8o6nbth80pbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUhlQltOzpgVT1w_rVAGCnXef8TZiMHlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735493959268-s4bfq1i2m44sgqr1jjtv8o6nbth80pbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

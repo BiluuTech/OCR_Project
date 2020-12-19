@@ -1,0 +1,4 @@
+<resources>
+<!--    <string name="app_name">Sign Board Text Translator</string>-->
+    <string name="app_name"><font color="#469CC1">Sign Board Text Translator</font></string>
+</resources>
